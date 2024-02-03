@@ -1,4 +1,4 @@
-package com.example.javafx;
+package es.damdi.marta;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

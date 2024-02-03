@@ -1,4 +1,4 @@
-package com.example.javafx;
+package es.damdi.marta;
 
 import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.property.SimpleStringProperty;

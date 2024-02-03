@@ -9,7 +9,7 @@
 <?import javafx.geometry.Insets?>
 <GridPane xmlns="http://javafx.com/javafx"
           xmlns:fx="http://javafx.com/fxml"
-          fx:controller="com.example.javafx.StudentController"
+          fx:controller="es.damdi.marta.StudentController"
           alignment="center" hgap="10" vgap="10">
 
     <padding>
